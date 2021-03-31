@@ -50,7 +50,7 @@ class itemManager():
         
         found = False
         indexValue = 0
-        if name == None and iid not == None:
+        if name == None and not iid == None:
             while not found:
                 if indexValue > 1000:
                     return False
@@ -61,7 +61,7 @@ class itemManager():
                     return x[0] 
             return False
         
-        elif iid == None and name not == None:
+        elif iid == None and not name == None:
             while not found:
                 if indexValue > 1000:
                     return False
