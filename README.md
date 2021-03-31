@@ -12,3 +12,4 @@ The project is lead by [SoupOrSoda](https://github.com/SoupOrSoda/), with other 
 | [hwalker928](https://github.com/hwalker928/) | Helped with the README.md | https://harrydev.tech/ |
 ## Licensing
 Please follow the guidelines set out in the LICENSE file.
+This project can be changed to closed source at any time, but it is most likely that we will keep it open source :)
